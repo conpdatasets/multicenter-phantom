@@ -7,7 +7,7 @@
             "date": "2008-04-25 00:00:00",
             "type": {
                 "@type": "Annotation",
-                "value": "Start Date"
+                "value": "start date"
             }
         },
         {
@@ -15,7 +15,7 @@
             "date": "2019-04-15 00:00:00",
             "type": {
                 "@type": "Annotation",
-                "value": "End Date"
+                "value": "end date"
             }
         }
     ],
@@ -194,6 +194,46 @@
 					"value": "1"
 				}
 			]
-		}
+		},
+        {
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "IBIS"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill Centre for Integrative Neuroscience"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
     ]
 }
