@@ -59,7 +59,7 @@
                 "landingPage" : "https://phantom.loris.ca",
 				"authorizations": [
 					{
-						"value": "private"
+						"value": "public"
 					}
 				]
             }
@@ -73,13 +73,6 @@
         	},
         	"name":"Homo sapiens"
     	},
-        {
-              "identifier": {
-                  	"identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606",
-				   	        "identifierSource": "NCBI Taxonomy Database"
-              },
-              "name":"Homo sapiens"
-        },
         {
             "name": "adult"
         }
@@ -167,14 +160,6 @@
 				}
 			]
 		},
-		{
-      		"category": "registrationPage",
-      		"values": [
-        		{
-          			"value": "https://phantom.loris.ca/login/request-account/"
-        		}
-      		]
-    	},
 		{
 			"category": "files",
 			"values": [
